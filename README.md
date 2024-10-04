@@ -14,7 +14,7 @@ Laracaché is an InterSystems Caché database driver package for [Laravel](http:
 
 ## Quick Installation
 
-PHP >= 8.1 and Laravel >= 10.x
+PHP >= 8.1 and Laravel >= 11.x
 ```bash
 composer require jeandormehl/laracache
 ```
